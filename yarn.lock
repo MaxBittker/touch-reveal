@@ -543,6 +543,10 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
 
+ccapture.js@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/ccapture.js/-/ccapture.js-1.1.0.tgz#ac4030e8b43847e305242d784abf284d2313beff"
+
 chalk@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-0.5.1.tgz#663b3a648b68b55d04690d49167aa837858f2174"
@@ -1326,6 +1330,12 @@ globby@^6.1.0:
 glsl-color@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/glsl-color/-/glsl-color-0.0.1.tgz#4ba5e442c0f48fb53199031869fdc09de323d554"
+
+glsl-dither@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/glsl-dither/-/glsl-dither-1.0.1.tgz#64c7bb73cb758327884d83915daea78ae3fbf5d6"
+  dependencies:
+    glsl-luma "^1.0.1"
 
 glsl-fractal-brownian-noise@^1.1.0:
   version "1.1.0"
@@ -3043,8 +3053,8 @@ string_decoder@~1.0.0, string_decoder@~1.0.3:
     safe-buffer "~5.1.0"
 
 stringstream@~0.0.4:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.5.tgz#4e484cd4de5a0bbbee18e46307710a8a81621878"
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.6.tgz#7880225b0d4ad10e30927d167a1d6f2fd3b33a72"
 
 strip-ansi@^0.3.0:
   version "0.3.0"
