@@ -543,6 +543,10 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
 
+ccapture.js@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/ccapture.js/-/ccapture.js-1.1.0.tgz#ac4030e8b43847e305242d784abf284d2313beff"
+
 chalk@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-0.5.1.tgz#663b3a648b68b55d04690d49167aa837858f2174"
@@ -1327,6 +1331,12 @@ glsl-color@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/glsl-color/-/glsl-color-0.0.1.tgz#4ba5e442c0f48fb53199031869fdc09de323d554"
 
+glsl-dither@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/glsl-dither/-/glsl-dither-1.0.1.tgz#64c7bb73cb758327884d83915daea78ae3fbf5d6"
+  dependencies:
+    glsl-luma "^1.0.1"
+
 glsl-fractal-brownian-noise@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/glsl-fractal-brownian-noise/-/glsl-fractal-brownian-noise-1.1.0.tgz#9ffe8c219adcf731f91188ed3b3f8068e2f1cadd"
@@ -1902,8 +1912,8 @@ lodash.memoize@~3.0.3:
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-3.0.4.tgz#2dcbd2c287cbc0a55cc42328bd0c736150d53e3f"
 
 lodash@^4.14.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 loud-rejection@^1.0.0:
   version "1.6.0"
