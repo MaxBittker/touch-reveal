@@ -543,6 +543,10 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
 
+ccapture.js@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/ccapture.js/-/ccapture.js-1.1.0.tgz#ac4030e8b43847e305242d784abf284d2313beff"
+
 chalk@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-0.5.1.tgz#663b3a648b68b55d04690d49167aa837858f2174"
@@ -1326,6 +1330,12 @@ globby@^6.1.0:
 glsl-color@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/glsl-color/-/glsl-color-0.0.1.tgz#4ba5e442c0f48fb53199031869fdc09de323d554"
+
+glsl-dither@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/glsl-dither/-/glsl-dither-1.0.1.tgz#64c7bb73cb758327884d83915daea78ae3fbf5d6"
+  dependencies:
+    glsl-luma "^1.0.1"
 
 glsl-fractal-brownian-noise@^1.1.0:
   version "1.1.0"
@@ -2335,8 +2345,8 @@ path-key@^2.0.0, path-key@^2.0.1:
   resolved "https://registry.yarnpkg.com/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
 
 path-parse@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-platform@~0.11.15:
   version "0.11.15"
